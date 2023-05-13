@@ -1,5 +1,5 @@
-from rest_framework import viewsets, permissions, mixins, pagination
 from django.shortcuts import get_object_or_404
+from rest_framework import viewsets, permissions, mixins, pagination
 from rest_framework.filters import SearchFilter
 
 from posts.models import Post, Group
