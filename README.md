@@ -47,5 +47,7 @@ PUT /api/v1/posts/<post_id>/
 DELETE /api/v1/posts/<post_id>/
 ```
 
+
+
 ### Автор: Муратов Максим
 Backend Python Developer
