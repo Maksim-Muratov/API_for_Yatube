@@ -47,4 +47,4 @@ DELETE /api/v1/posts/<post_id>/
 ```
 
 ### Автор: Муратов Максим
-Backend разработчик на Python
+Backend Python Developer
